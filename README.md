@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 ## Description:
-The application enables users to enter inputs into a inquirer prompt in order to generate a logo "logo.svg" file which contains the users desired results as an SVG image.
+The Expresss JS Note Taker is a simple, lightweight, and fast web application that allows users to write, save and delete notes on their own.
 
 ## Table of Contents:
 - [Overview](#Overview)
